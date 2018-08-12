@@ -3,5 +3,8 @@ A Heavily Modified 2Much4U Menu Base For Grand Theft Auto V (PS3 &amp; XBOX Vers
 
 
 # Build Requirements
-PS3 Version Requires Atleast Visual Srudio 2015 & The SDK Installed
-XBOX Version Requires Atleast Visual Srudio 2015 & The Nebourhood SDK Installed
+<b>PS3 Version</b> Requires Atleast Visual Srudio 2015 & The SDK Installed
+<br>
+<b>XBOX Version</b> Requires Atleast Visual Srudio 2015 & The Nebourhood SDK Installed
+
+Im Not Going To give The SDK's Out But Googles Your Friend For That ;)

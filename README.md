@@ -3,8 +3,7 @@ A Heavily Modified 2Much4U Menu Base For Grand Theft Auto V (PS3 &amp; XBOX Vers
 
 <img src="https://inception.menu/uploads/menubase.jpg">
 
-
-XBOX VErsion Will Be Uploaded When I Can Be Bothered
+XBOX Version Will Be Uploaded When I Can Be Bothered
 
 # Build Requirements
 <b>PS3 Version</b> Requires Atleast Visual Srudio 2015 & The SDK Installed
